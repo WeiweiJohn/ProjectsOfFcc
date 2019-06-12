@@ -1,0 +1,137 @@
+body {
+  background-color: #a9d7d1;
+  text-align: center;
+}
+
+#survey-form {
+  background-color: white;
+  margin: 0 auto;
+  position: relative;
+  padding: 10px 30px 10px 30px;
+  width: 800px;
+  border-radius: 5px;
+}
+
+#name-label {
+  text-align: left;
+  position: relative;
+  left: 318px;
+}
+
+#name {
+  position: relative;
+  top: -36px;
+  left: 65px;
+}
+
+#email-label {
+  text-align: left;
+  position: relative;
+  top: -34px;
+  left: 318px;
+}
+
+#email {
+  position: relative;
+  top: -70px;
+  left: 65px;
+}
+
+#number-label {
+  text-align: left;
+  position: relative;
+  top: -68px;
+  left: 329px;
+}
+
+#number {
+  width: 170px;
+  position: relative;
+  top: -104px;
+  left: 65px;
+}
+
+#which-label {
+  text-align: left;
+  position: relative;
+  top: -98px;
+  left: 66px;
+}
+
+#dropdown {
+  position: relative;
+  top: -134px;
+  left: 42px;
+}
+
+#how-label {
+  width: 300px;
+  text-align: right;
+  position: relative;
+  top: -135px;
+  left: 66px;
+}
+
+.how {
+  text-align: left;
+  position: relative;
+  top: -184px;
+  left: 332px;
+}
+
+#what-label {
+  width: 300px;
+  text-align: right;
+  position: relative;
+  top: -185px;
+  left: 66px;
+}
+
+#dropdown1 {
+  position: relative;
+  top: -220px;
+  left: 30px;
+}
+
+#things-label {
+  width: 300px;
+  text-align: right;
+  position: relative;
+  top: -220px;
+  left: 66px;
+}
+
+.things {
+  text-align: left;
+  position: relative;
+  top: -270px;
+  left: 332px;
+}
+
+#any-label {
+  width: 300px;
+  text-align: right;
+  position: relative;
+  top: -260px;
+  left: 66px;
+}
+
+#suggestion {
+  width: 280px;
+  height: 70px;
+  text-align: left;
+  position: relative;
+  top: -300px;
+  left: 160px;
+}
+
+#submit{
+  width: 80px;
+  height: 35px;
+  background-color: #59ace0;
+  color: white;
+  border-radius: 4px;
+  position: relative;
+  top: -260px;
+  left: -170px;
+}
